@@ -8,12 +8,12 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/TBA
 
 Project title:
-TBA
+Exploring the Impact of Movie Reviews on Overall Success
 
 Group Number:
-3
+10
 
 Group Members:
 20101065 Tanjim Reza
-20301016 Nafiz Siddique Adnan
+20301016 Nafiz Siddiqui Adnan
 20101155 Fahad Al Mannan
