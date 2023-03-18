@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://www.youtube.com/playlist?list=PL4iTVKzFqrcNIZUeKrRVPZIhv9iGkexxV&index=1
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/TBA
+https://docs.google.com/presentation/d/1il2wHWY11s0DzbPpEnnS1TdlryGmHwEuZPZUjZmLfS8/edit?usp=sharing
 
 Project title:
 Exploring the Impact of Movie Reviews on Overall Success
