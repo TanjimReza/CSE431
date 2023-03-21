@@ -2,7 +2,7 @@ Link to unlisted YouTube Video:
 
 
 Public Link to the Slide: 
-
+https://docs.google.com/presentation/d/1xGfMso-trbXFfVDD3ndbAxMOpwwyF4ga-Fc0vINF6j4/edit?usp=sharing
 
 Paper Title: 
 Movie Reviews and Revenues: An Experiment in Text Regression
