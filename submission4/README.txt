@@ -2,8 +2,8 @@ Overleaf link with edit access to Annajiat Sir [View for ST,RA as Overleaf Free 
 https://www.overleaf.com/read/dpwbqmzypvbg
 
 Link to unlisted YouTube video:
+https://youtu.be/J5ibDTN8FMk
 
-Public link to the slide (Anyone on the internet can view without login):
 
 Project title:
 Exploring the Impact of Movie Reviews on Overall Success
