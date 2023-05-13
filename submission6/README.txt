@@ -5,16 +5,16 @@ Link to unlisted YouTube video:
 https://youtu.be/aaZn1Aa7AxA
 
 Conference submitted paper / paper submission / login Link:
-
+https://r10htc2023.org/index.php
 
 Paper submission date (to workshop/conference):
 
 
-Paper submission ID:
+Paper submission ID:  #1570913473
 
-Conference Name: 
+Conference Name: IEEE R10 HTC 2023
 
-Conference URL:
+Conference URL: https://r10htc2023.org/index.php
 
 
 Project title:
